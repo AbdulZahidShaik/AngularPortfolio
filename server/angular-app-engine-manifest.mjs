@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'https://AbdulZahidShaik.github.io/AngularPortfolio_AbdulZahid',
+  basePath: 'https://AbdulZahidShaik.github.io/AngularPortfolio',
   supportedLocales: {
   "en-US": ""
 },
