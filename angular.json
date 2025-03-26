@@ -98,6 +98,12 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "buildTarget": "my-angular-app:build:production"
+          }
         }
       }
     }
